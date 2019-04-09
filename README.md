@@ -8,3 +8,6 @@ Some notebooks with pytorch examples.
     - Data: Digits dataset from sklearn
     - Evaluation, misclassified examples
     - Comparison to `sklearn` Logistic Regression
+
+3. Activation functions visualization [link](https://github.com/skela5528/pytorch-learn/blob/master/Activation%20Functions%20from%20Pytorch.ipynb)
+    - All activation functions from `pytorch`
